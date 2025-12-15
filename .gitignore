@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# N-Mod EXT ignore file
+.nmodignore
